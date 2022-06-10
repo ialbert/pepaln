@@ -30,7 +30,7 @@ And an origin sequence of:
 
     VLSPADKTNVKAAWGK
 
-They wanted to see it aligned in a way that lets them see which region is well covered and which region is not covered. I came up with the following visualization:
+They wanted to see it matched in a way that lets them see which region is well covered and which region is not covered. I came up with the following visualization that also displays individual, non-overlapping alignments with a packing heuristic:
 
     VLSPADKTNVKAAWG
           **      
