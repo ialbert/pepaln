@@ -26,11 +26,11 @@ For example, when they had a series of short fragments like:
 
     VL LS LSP LSPAD PA NVKAA NVK VKA AA
     
-And a origin sequence of:
+And an origin sequence of:
 
     VLSPADKTNVKAAWGK
 
-They wanted to see it aligned like so :
+They wanted to see it aligned in a way that lets them see which region is well covered and which region is not covered. I came up with the following visualization:
 
     VLSPADKTNVKAAWG
           **      
