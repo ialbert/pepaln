@@ -1,0 +1,20 @@
+>ha (Mode=POS)
+VLSPADKTNVKAAWGKVGAHAGEYGAEALERMFLSFPTTKTYFPHFDLSHGSAQVKGHGKKVADALTNAVAHVDDMPNALSALSDLHAHKLRVDPVNFKLLSHCLLVTLAAHLPAEFTPAVHASLDKFLASVSTVLTSKYR
+             **                    *   *         *                                     *              ***                     **         ****
+VL PA   NVKAA  KVGA AGEYG  AL RMF   PTT TYF HFD   GSAQV   GKKV DAL  AV      PN LS LS LH HK  VDP NF  LS   LV LA HL  EF PA   SL   LA VS VL     
+ LS  DKTNVK    KVGAHA EY    LE   LS      YFPH DL    AQVKG GKKVADA TNAVAHVDDM  AL AL DL  HKLRV PV  KL      VT AA  PA FT AV  SLD  LASVST LT    
+ LSP     VKA    VGA  GEYGA                FPH DLS    QV     KVA AL  AVAH    PNA SALS     KL  DPV  KLLS     TL    PAE TPA    LD    SV TV      
+ LSPAD     AA    GAHA   GAEA               PHF LS    QVK     VA ALTNA AHV   PNAL  LSD     LRVD VNF                    PAVH                   
+   PADK           AHAG                     PHFD       VKGH       LT  VA           LSDL        PVN                     PAVH                   
+                   HAGEYG                   HFDL       KGHGKKVA      VAH           SDL                                 AVH                   
+                                                                                    DLH                                AVHA                  
+                                                                                                                        VHA                  
+>ha (Mode=NEG)
+VLSPADKTNVKAAWGKVGAHAGEYGAEALERMFLSFPTTKTYFPHFDLSHGSAQVKGHGKKVADALTNAVAHVDDMPNALSALSDLHAHKLRVDPVNFKLLSHCLLVTLAAHLPAEFTPAVHASLDKFLASVSTVLTSKYR
+       *  ******  *****   *******  *   *              *******          *               *****      **  ***    ****        *    **         ****
+VL PA   NV      VG     YGA       LS PTT TYFP FDLSHGSAQ       VA ALTNA   VD  PN LS LS        VD VN   LS   LV      PA FT AV AS    LASVST LT    
+ LS                                       FPH DL   SA          DAL  AV  VDDMPNALS LSD         PV          VT     PAE  PA   SL    AS  TV      
+ LSPAD                                     PHF LS                LT  VA     PNALS  SDL        PVN          TL    PAEF      SLD    SV  VL     
+   PAD                                     PHFD                                 SA  DL         VNF                          LD     VS        
+   PADK                                     HFDL                                    DLH                                                      
+                                              DLS                                                                                            
