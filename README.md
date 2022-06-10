@@ -41,7 +41,7 @@ They wanted to see it matched in a way that lets them see which region is well c
      
 The `*` above indicates a region that is not covered. In addition they wanted to display different peptides with colors as well.
 
-I was unable to locate a tool that fulfills this need, hence I wrote this package.
+I was unable to locate a tool that has a similar functionality, hence I wrote this package.
 
 ## Input data
 
