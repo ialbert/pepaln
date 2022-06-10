@@ -54,7 +54,7 @@ The input consists of a tab delimited format with at least three columns:
 
 Where:
 
-1. The first column lists the peptide sequence (multiple sequences may be listed separated with a semicolon `;`).
+1. The first column lists the peptide sequence (multiple sequences may be separated with a semicolon `;`).
 2. The second column lists a value 
 3. The third column indicates the ionization mode
 
@@ -64,7 +64,9 @@ The reference fasta file may contain more than one target sequence.
     VLSPADKTNVKAAWGKVGAHAGEYGAEALERMFLSFPTTKTYFPHFDLSHGSAQVKGHGKKVADALTNAVAHVDDMPN
     >hb
     VHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPKVKAHGKKVLGAFSDGLAHL
-    
+
+A separate visualization will be generated for each reference sequence.
+
 ## Outputs
 
 The tool will generate outputs in three formats TXT, GFF as well as PDF formats. The default filenames are
