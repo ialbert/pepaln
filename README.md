@@ -8,6 +8,16 @@ This Python package is designed match short peptide sequences detected via Mass 
     PA             2.454           POS
     SP             4.701           NEG
 
+## Installation
+
+    pip install pepaln
+
+## Usage
+
+	python -m pepaln -m fragments.txt -r reference.fa
+
+Generates the files called `output.gff`, `output.txt` and `output.pdf`
+
 ## What does this package do?
 
 A collaborator asked me to align short peptides from a Mass Spec experiment to a sequence, then show him an image that displays in an easy-to-see format where does each peptide align and which regions are not covered.
@@ -94,16 +104,6 @@ The peptides are colored by their value field:
     ha	NVKAA	.	9	13	.	3.012	.	Mode=POS
     ha	VKA	.	10	12	.	3.986	.	Mode=POS
     ...
-    
-## Installation
-
-    pip install pepaln
-    
-## Usage
-
-	python -m pepaln -m mass_spec.txt -r reference.fa
-
-Generates the files called `output.gff`, `output.txt` and `output.pdf`
 
 ## Help
 
